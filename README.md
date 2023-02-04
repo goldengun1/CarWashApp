@@ -1,2 +1,2 @@
 # CarWashAPI
-Project done in .NET/ASP.NET core and ReactJS/MaterialUI for full stack internship.
+Project done in .NET/ASP.NET core and ReactJS/MaterialUI for full stack internship at ValueShore DOO.
